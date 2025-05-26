@@ -4,4 +4,4 @@ The corresponding fBm trajectories are simulated with </br>
 
 
 <h2>Parameters of simulated fBm trajectories.</h2>
-<img src="https://github.com/JunwooParkSaribu/spt_simulations/blob/main/note.png" width="230" height="230">
+<img src="https://github.com/JunwooParkSaribu/spt_simulations/blob/main/note.png">
